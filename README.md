@@ -238,3 +238,13 @@ Projeto desenvolvido por:
 **Lucas Gabriel**
 
 Curso Técnico em **Desenvolvimento de Sistemas**
+
+
+# IMAGENS PROJETO 
+<img width="1917" height="642" alt="image" src="https://github.com/user-attachments/assets/a1bd681d-1864-4220-bc19-f3730dfaa8a4" />
+
+
+<img width="1108" height="613" alt="image" src="https://github.com/user-attachments/assets/386517be-ab8c-413b-b065-fa65176cfa12" />
+
+
+<img width="1118" height="637" alt="image" src="https://github.com/user-attachments/assets/6772a269-3337-44fa-add9-5fe90a518f62" />
